@@ -1,8 +1,5 @@
-# 🎈 Blank app template
 
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+Simply enter a phrase, and the AI returns the perfect kaomoji matching the emotion. Whether you’re feeling (╥﹏╥) sad, (ﾉ◕ヮ◕)ﾉ excited, or (¬‿¬) cheeky, this tool brings your emotions to life LITERALLY!
 
 ### How to run it on your own machine
 
